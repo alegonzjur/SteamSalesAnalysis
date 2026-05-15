@@ -3,11 +3,9 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)![Steam](https://img.shields.io/badge/Steam-1b2838?style=flat&logo=steam&logoColor=white)![License](https://img.shields.io/badge/License-GPL--3.0-green?style=flat)
 
-## [Dataset](https://www.kaggle.com/datasets/benjaminlundkvist/steam-sales-historical-dataset)
-
 Dashboard interactivo desarrollado en Power BI para el análisis del catálogo de juegos de Steam, focalizado en la estrategia de precios, descuentos, valoraciones y evolución temporal del mercado. El objetivo es extraer patrones de comportamiento comercial en la plataforma de distribución digital de juegos de PC más grande del mundo.
 
-![DemodelDashboard](images/summary.gif)
+![DemodelDashboard](images/SteamDashboard.gif)
 
 ---
 
